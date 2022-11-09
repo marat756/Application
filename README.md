@@ -1,2 +1,3 @@
-# django-first-sayt
-Первый проект в DJANGO
+### Cars are  a great invention of human nature
+      BEST OF THE BESTs
+
